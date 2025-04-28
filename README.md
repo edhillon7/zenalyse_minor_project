@@ -116,7 +116,7 @@ Install Dependencies:
 Install required packages:pip install fastapi uvicorn python-dotenv supabase
 
 
-If you have a requirements.txt, use:pip install -r requirements.txt
+or Create requirements.txt, use:pip install -r requirements.txt
 
 
 
